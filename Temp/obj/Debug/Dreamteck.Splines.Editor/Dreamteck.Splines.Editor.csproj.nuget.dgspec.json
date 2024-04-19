@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.Editor.csproj": {}
+  },
+  "projects": {
+    "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.csproj",
+        "projectName": "Dreamteck.Splines",
+        "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.csproj",
+        "packagesPath": "/Users/diogoogaspar/.nuget/packages/",
+        "outputPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Temp/obj/Debug/Dreamteck.Splines/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diogoogaspar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.csproj": {
+                "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.Editor.csproj",
+        "projectName": "Dreamteck.Splines.Editor",
+        "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.Editor.csproj",
+        "packagesPath": "/Users/diogoogaspar/.nuget/packages/",
+        "outputPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Temp/obj/Debug/Dreamteck.Splines.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diogoogaspar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.csproj": {
+                "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.csproj"
+              },
+              "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.csproj": {
+                "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.csproj"
+              },
+              "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.Editor.csproj": {
+                "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.csproj",
+        "projectName": "Dreamteck.Utilities",
+        "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.csproj",
+        "packagesPath": "/Users/diogoogaspar/.nuget/packages/",
+        "outputPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Temp/obj/Debug/Dreamteck.Utilities/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diogoogaspar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.Editor.csproj",
+        "projectName": "Dreamteck.Utilities.Editor",
+        "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.Editor.csproj",
+        "packagesPath": "/Users/diogoogaspar/.nuget/packages/",
+        "outputPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Temp/obj/Debug/Dreamteck.Utilities.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diogoogaspar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

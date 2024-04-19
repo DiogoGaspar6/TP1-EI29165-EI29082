@@ -1,0 +1,192 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Dreamteck.Splines/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Dreamteck.Utilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dreamteck.Splines.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dreamteck.Splines.dll": {}
+        }
+      },
+      "Dreamteck.Splines.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Dreamteck.Splines": "1.0.0",
+          "Dreamteck.Utilities": "1.0.0",
+          "Dreamteck.Utilities.Editor": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dreamteck.Splines.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dreamteck.Splines.Editor.dll": {}
+        }
+      },
+      "Dreamteck.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Dreamteck.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dreamteck.Utilities.dll": {}
+        }
+      },
+      "Dreamteck.Utilities.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Dreamteck.Utilities.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dreamteck.Utilities.Editor.dll": {}
+        }
+      },
+      "OccaSoftware.Crosshairs.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/OccaSoftware.Crosshairs.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OccaSoftware.Crosshairs.Editor.dll": {}
+        }
+      },
+      "Unity.Splines.Examples/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.Splines.Examples.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Splines.Examples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dreamteck.Splines/1.0.0": {
+      "type": "project",
+      "path": "Dreamteck.Splines.csproj",
+      "msbuildProject": "Dreamteck.Splines.csproj"
+    },
+    "Dreamteck.Splines.Editor/1.0.0": {
+      "type": "project",
+      "path": "Dreamteck.Splines.Editor.csproj",
+      "msbuildProject": "Dreamteck.Splines.Editor.csproj"
+    },
+    "Dreamteck.Utilities/1.0.0": {
+      "type": "project",
+      "path": "Dreamteck.Utilities.csproj",
+      "msbuildProject": "Dreamteck.Utilities.csproj"
+    },
+    "Dreamteck.Utilities.Editor/1.0.0": {
+      "type": "project",
+      "path": "Dreamteck.Utilities.Editor.csproj",
+      "msbuildProject": "Dreamteck.Utilities.Editor.csproj"
+    },
+    "OccaSoftware.Crosshairs.Editor/1.0.0": {
+      "type": "project",
+      "path": "OccaSoftware.Crosshairs.Editor.csproj",
+      "msbuildProject": "OccaSoftware.Crosshairs.Editor.csproj"
+    },
+    "Unity.Splines.Examples/1.0.0": {
+      "type": "project",
+      "path": "Unity.Splines.Examples.csproj",
+      "msbuildProject": "Unity.Splines.Examples.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Dreamteck.Splines >= 1.0.0",
+      "Dreamteck.Splines.Editor >= 1.0.0",
+      "Dreamteck.Utilities >= 1.0.0",
+      "Dreamteck.Utilities.Editor >= 1.0.0",
+      "OccaSoftware.Crosshairs.Editor >= 1.0.0",
+      "Unity.Splines.Examples >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/diogoogaspar/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Assembly-CSharp.csproj",
+      "packagesPath": "/Users/diogoogaspar/.nuget/packages/",
+      "outputPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Temp/obj/Debug/Assembly-CSharp/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/diogoogaspar/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.csproj": {
+              "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.csproj"
+            },
+            "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.Editor.csproj": {
+              "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Splines.Editor.csproj"
+            },
+            "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.csproj": {
+              "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.csproj"
+            },
+            "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.Editor.csproj": {
+              "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Dreamteck.Utilities.Editor.csproj"
+            },
+            "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/OccaSoftware.Crosshairs.Editor.csproj": {
+              "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/OccaSoftware.Crosshairs.Editor.csproj"
+            },
+            "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.csproj": {
+              "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

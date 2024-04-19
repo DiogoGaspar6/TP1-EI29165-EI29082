@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.Editor.csproj": {}
+  },
+  "projects": {
+    "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.csproj",
+        "projectName": "Unity.Splines.Examples",
+        "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.csproj",
+        "packagesPath": "/Users/diogoogaspar/.nuget/packages/",
+        "outputPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Temp/obj/Debug/Unity.Splines.Examples/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diogoogaspar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.Editor.csproj",
+        "projectName": "Unity.Splines.Examples.Editor",
+        "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.Editor.csproj",
+        "packagesPath": "/Users/diogoogaspar/.nuget/packages/",
+        "outputPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Temp/obj/Debug/Unity.Splines.Examples.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diogoogaspar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.csproj": {
+                "projectPath": "/Users/diogoogaspar/Documents/Aulas/TECMULT/overcookedGame/gameTECMULT/Projeto de TEC MULT/Unity.Splines.Examples.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

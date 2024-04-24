@@ -1,3 +1,4 @@
 *.asset filter=lfs diff=lfs merge=lfs -text
 *.lightning filter=lfs diff=lfs merge=lfs -text
 *.data filter=lfs diff=lfs merge=lfs -text
+*.assets filter=lfs diff=lfs merge=lfs -text
